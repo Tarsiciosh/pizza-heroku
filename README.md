@@ -100,7 +100,7 @@ user.save()
 
 # Deploy in heroku: (it must be in an independent repository)
 $ heroku login
-$ heroku create --name tar-pizza
+$ heroku create tar-pizza
 (https://tar-pizza.herokuapp.com/ | https://git.heroku.com/tar-pizza.git)
 
 (requirements.txt) - create
